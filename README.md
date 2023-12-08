@@ -3,7 +3,7 @@
         <a href="https://github.com/Maharajan123/readme-typing-svg">
           <img src="https://readme-typing-svg.demolab.com/?lines=ECE %20Student;Passionate %20Java %20Developer;Learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0000ff&vCenter=true&pause=1000&size=22" /></a>
       </p>
-   <img align="right" alt="GIF" src="https://github.com/rkkarthi07/rkkarthi07/blob/main/hi.gif?raw=true" width="400" height="300" />
+   <img align="right" alt="GIF" src="https://github.com/Maharajn123/Maharajn123/blob/main/hi.gif?raw=true" width="400" height="300" />
     
 <!-- - 🔗 This is my [portfolio]()-->
   
@@ -73,31 +73,25 @@
       >
         <img
           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-          alt="html"
+          alt="HTML"
+          width="40"
+          height="40"
+        />
+      </a>
+        <img
+          src="https://techhubsolutions.in/wp-content/uploads/2020/05/maxresdefault.jpg" 
+          alt="jswing"
           width="40"
           height="40"
         />
       </a>
       <a
         style="padding: 5px"
-        href="https://www.css.com/"
+        href="https://docs.oracle.com/javase/tutorial/uiswing/"
         target="_blank"
         rel="noreferrer"
       >
 <!--         <img
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" 
-          alt="css"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        style="padding: 5px"
-        href="https://www.javascript.cc/"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
           alt="Javascript"
           width="40"
