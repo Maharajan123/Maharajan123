@@ -1,11 +1,11 @@
-`   <h1 align="center">Hi 👋, I'm MAHARAJAN M </h1>
+`   <h1 align="center">Hi 👋, I'm Maharajan M </h1>
 <p align="center">
         <a href="https://github.com/Maharajan123/readme-typing-svg">
           <img src="https://readme-typing-svg.demolab.com/?lines=ECE %20Student;Passionate %20Java %20Developer;Learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0000ff&vCenter=true&pause=1000&size=22" /></a>
       </p>
    <img align="right" alt="GIF" src="https://github.com/rkkarthi07/rkkarthi07/blob/main/hi.gif?raw=true" width="400" height="300" />
     
- - 🔗 This is my [portfolio]()
+<!-- - 🔗 This is my [portfolio]()-->
   
  - 🔭 I’m currently learning DSA
    
