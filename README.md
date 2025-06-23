@@ -18,7 +18,7 @@
     
 <h3 align="left">Connect with me:</h3> <p align="left"> <a
         style="padding: 10px"
-        href="(https://www.linkedin.com/in/maharajanmr/)"
+        href="https://www.linkedin.com/in/maharajanmr/"
         target="blank"
         ><img
           align="center"
